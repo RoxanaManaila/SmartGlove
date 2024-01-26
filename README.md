@@ -1,4 +1,4 @@
-# SmartGlove
+# Hand-sign gesture recognition module for people with deaf-mute disabilities
 Hello there!
 
 First, I want to start by saying that this project is one of my most interesting and beautiful projects that I ever worked on and it is very special to me.
