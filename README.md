@@ -32,8 +32,6 @@ The repository contains:
 NOTE. The glove was designed for the right hand.
 
 ![schema2-poza](https://github.com/RoxanaManaila/SmartGlove/assets/156087923/729322b0-5d59-48e2-80c9-e9f88fc4eca7)
-
 ![image](https://github.com/RoxanaManaila/SmartGlove/assets/156087923/f4a78e6d-ce1d-4c6d-9e68-807c40d742e3)
-
 ![WhatsApp Image 2023-05-04 at 21 39 55](https://github.com/RoxanaManaila/SmartGlove/assets/156087923/86555944-84d3-4955-b458-1468f9c438b3)
 
