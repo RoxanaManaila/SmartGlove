@@ -9,8 +9,8 @@ The project itself represents a device in form of a smart glove, consisting of b
 more easily and in a natural way with the people that do not know sign language. It can also have another functionality, for example, it can be used to study sign language and understand it better 
 and easier, being of much help to those who want to learn sign language at home.
 It should be noted that the prototipe only recognises the letters of the sign language alphabet. 
-In order for all of this to work and make sense, I also created and android app that receives the information from the arduino's microcontroller via bluetooth communication and displays the translation on the phone screen
-making it possible to write words and even phrases just by signing the letters. I also created and added two auxdiliar gestures for introducing the space between words and also, for allowing the possibility to delete letters
+In order for all of this to work and make sense, I also created an android app that receives the information from the arduino's microcontroller via bluetooth communication and displays the translation on the phone screen
+making it possible to write words and even phrases just by signing the letters. I also created and added two auxiliar gestures for introducing the space between words and also, for allowing the possibility to delete letters
 that have already been signed and recognised, making it easier to manage possible mistakes.
 In the making of the source code for the recognition, there was an experimental process that I used in order to obtain the information from the sensors that allowed me to discover the proper values that I needed in order for the 
 translation to actually be as precise as possible and work.
