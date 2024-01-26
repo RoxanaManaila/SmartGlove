@@ -16,18 +16,23 @@ In the making of the source code for the recognition, there was an experimental 
 translation to actually be as precise as possible and work.
 
 Hardware components:
--basic fabric glove
--5x flex sensors (one for each finger)
--1x MPU6050 module (I2C communication) - this was placed on the back of the palm
--1x Arduino Nano with Atmega328P microcontroller
--1x bluetooth module HC05 (serial communication)
--5x 10kOhm resistance 
--wires
--battery
+<ul>
+  <li> basic fabric glove </li>
+  <li> 5x flex sensors (one for each finger) </li>
+  <li> 1x MPU6050 module (I2C communication) - this was placed on the back of the palm </li>
+  <li> 1x Arduino Nano with Atmega328P microcontroller </li>
+  <li> 1x bluetooth module HC05 (serial communication) </li>
+  <li> 5x 10kOhm resistance  </li>
+  <li> wires </li>
+  <li> 1x Arduino UNO board </li>
+  <li> 9V battery (to power up the bluetooth device individually)</li>
+</ul>
 
 The repository contains:
--the sourse code for the hardware
--the source code for the android app
+<ul>
+  <li> the sourse code for the hardware (written in C++)</li>
+  <li> the source code for the android app (written in Java)</li>
+</ul>
 
 NOTE. The glove was designed for the right hand.
 
