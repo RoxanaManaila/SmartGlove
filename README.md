@@ -31,5 +31,14 @@ The repository contains:
 
 NOTE. The glove was designed for the right hand.
 
-<img src="[https://your-image-url.type](https://github.com/RoxanaManaila/SmartGlove/assets/156087923/8dbb3ce0-dae0-45b7-91f5-35abb7978969)" width="300" height="250">
+The schematics for the project in Fritzing:
+![schema2-poza](https://github.com/RoxanaManaila/SmartGlove/assets/156087923/75c69f75-49b2-46ec-8c49-83e892cc73f2)
+
+The hardware prototype:
+![image](https://github.com/RoxanaManaila/SmartGlove/assets/156087923/4be18ee5-e107-44ab-a77c-f5767698cade)
+
+The Android app that displays the recognised message while using the glove:
+(I chose to write 2 abbreviations related to the specialization I followed at the university.)
+![image](https://github.com/RoxanaManaila/SmartGlove/assets/156087923/76fca0e2-6ff1-4989-a687-6854ea755e30)
+
 
